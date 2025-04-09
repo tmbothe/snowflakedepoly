@@ -1,3 +1,4 @@
+USE DATABASE EMP;
 CREATE SCHEMA IF NOT EXISTS EMP.hrdata;
 
 -- Create Tables
