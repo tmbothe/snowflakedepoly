@@ -1,5 +1,8 @@
 
 
+use role accountadmin;
+use schema emp_{{environment}}.private;
+
 CREATE OR ALTER TABLE private.employees
    ( employee_id NUMBER(6)
    , first_name VARCHAR(20)

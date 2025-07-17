@@ -1,3 +1,7 @@
+use role accountadmin;
+use schema emp_{{environment}}.private;
+
+
 CREATE OR ALTER TABLE private.departments
    ( dept_id NUMBER(4)
    , department_name VARCHAR(30) NOT NULL
