@@ -1,4 +1,4 @@
-CREATE OR ALTER TABLE priavte.departments
+CREATE OR ALTER TABLE private.departments
    ( dept_id NUMBER(4)
    , department_name VARCHAR(30) NOT NULL
    , manager_id NUMBER(6)
