@@ -1,4 +1,4 @@
-[connections.default]
+[connection.default]
 account = "VVXDFYA-MYC14594"
 user = "UKO"
 authenticator = "snowflake"
