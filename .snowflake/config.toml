@@ -1,0 +1,9 @@
+[connections.default]
+account = "VVXDFYA-MYC14594"
+user = "UKO"
+authenticator = "snowflake"
+password = "Gambrills@2025"
+database = "QUICKSTART_COMMON"
+schema = "PUBLIC"
+warehouse = "THIM_WH"
+role = "ACCOUNTADMIN"
